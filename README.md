@@ -18,10 +18,10 @@ Bengali Generative AI has just released its latest model, and the best part is t
 But that’s not all. The Bengali Generative AI’s latest model also comes with an integrated Text-To-Speech (TTS) feature. This means that not only can you generate text in Bengali, but you can also have that text converted into natural-sounding speech. It opens up a whole new range of possibilities for audio content creation, language learning, accessibility, and more. Running the model on Colab is a breeze.
 
 ### Just follow these simple steps:
- Step1: Open the link to the Bengali Generative AI model on Colab: [https://colab.research.google.com/drive/1HYHZJwsNWk9auZ_o39G3AIGMtGkqVG2o?usp=sharing].
-Step 2: In Colab, navigate to “Runtime” and select “Run all cells”. This will initiate the model and load all the necessary dependencies.
-Step 3: Once the cells have finished running, you will be provided with a Gradio URL. Gradio is a user-friendly interface that allows you to interact with the model effortlessly.
-Step 4: Click on the Gradio URL, and it will open a web interface where you can input your desired text in Bengali
+* Step1: Open the link to the Bengali Generative AI model on Colab: [https://colab.research.google.com/drive/1HYHZJwsNWk9auZ_o39G3AIGMtGkqVG2o?usp=sharing].
+* Step 2: In Colab, navigate to “Runtime” and select “Run all cells”. This will initiate the model and load all the necessary dependencies.
+* Step 3: Once the cells have finished running, you will be provided with a Gradio URL. Gradio is a user-friendly interface that allows you to interact with the model * effortlessly.
+* Step 4: Click on the Gradio URL, and it will open a web interface where you can input your desired text in Bengali
 
 ![image](https://github.com/zafor158/OdiaGenAI-4-bit-Bengali-LLM/assets/98481506/fb14e87d-b815-4ab7-9c8d-23f70bcc758e)
 You can choose to generate text or have it converted into speech using the integrated TTS feature. Play around with the model, generate Odia text, and listen to the TTS output. Explore its capabilities and get creative with your ideas.
