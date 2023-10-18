@@ -1,6 +1,6 @@
 # OdiaGenAI-4-bit-Bengali-LLM
 
-### bModel
+### Model
 The BengaliGPT model, odiagenAI-bengali-lora-model-v1, was released on 10th June 2023 through Hugging Face with a CC BY-NC-SA 4–0 license. The model is based on Llama-7b as the base model and finetuned with the Bengali translated instruction set with 5 epochs. The Hugging Face model card shows the model descriptions and running instructions. The code (translation, training, and inference) is available on GitHub.
 
 ### Inference
